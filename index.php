@@ -20,4 +20,5 @@
 	imagepng($image);
 	// Destroy the image in the memory.
 	imagedestroy($image);
+	//php certificate generator
 ?>
